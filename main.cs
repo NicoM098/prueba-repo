@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        // Esta es la version 1.0
+        // ESTA ES LA RAMA MAIN
         Random random = new Random();
         
         int number = 10;
